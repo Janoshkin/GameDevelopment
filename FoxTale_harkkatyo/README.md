@@ -1,4 +1,4 @@
-# **TTOS0700 | N2927 | Harjoitustyö | Fox's Tale**
+# **Harjoitustyö | Fox's Tale**
 
 Vähäisen peliohjelmointikokemuksen takia päätin tehdä tutoriaalin mukaisen pelin, Fox’s Talen. Kyseessä on 2D peli, jossa hahmo kerää timantteja, yrittää olla astumatta piikkeihin ja osumatta sammakkoihin, jotka vähentävät hahmon terveyttä.
 
